@@ -1,1 +1,8 @@
+### FIRST INIT ####################
+
 git init && git add * && git commit -m "Git init First" && git branch -M main && git remote add origin git@github.com:ksmsk777/testForGit.git && git push -u origin main
+
+
+#### FAST COMMIT AND PUSH  ################
+
+git add * && git commit -m "Git fast commits" && git push -u origin main
