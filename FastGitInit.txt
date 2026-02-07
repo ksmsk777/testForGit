@@ -1,0 +1,1 @@
+git init && git add * && git commit -m "Git init First" && git branch -M main && git remote add origin git@github.com:ksmsk777/testForGit.git && git push -u origin main
